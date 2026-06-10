@@ -18,6 +18,7 @@ body {
 .header {
     text-align: left;
     padding: 20px 0;
+    font-family: 'Copse', serif;
 }
 
 .header h1 {
@@ -46,6 +47,7 @@ body {
     justify-content: space-between;
     margin-top: 20px;
     flex-wrap: wrap;
+    font-family: 'Copse', serif;
 }
 
 .profile-pic {
@@ -60,6 +62,7 @@ body {
     flex: 1;
     margin-right: 20px;
     text-align: left;
+    font-family: 'Copse', serif;
 }
 
 .intro h2 {
@@ -100,6 +103,7 @@ ul li {
     padding: 20px 0;
     background-color: #87BDD8;
     color: #fff;
+    font-family: 'Copse', serif;
 }
 
 .footer a {
