@@ -32,7 +32,7 @@ body {
 }
 
 .header nav a {
-    color: #87BDD8;
+    color: #ff0b81;
     text-decoration: none;
     font-weight: 500;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 .intro h2 {
-    color: #87BDD8;
+    color: #770958;
     font-weight: 700;
     font-size: 24px;
 }
@@ -83,7 +83,7 @@ body {
 }
 
 .content h3 {
-    color: #87BDD8;
+    color: #770958;
     font-weight: 700;
     font-size: 24px;
     margin-top: 0;
@@ -102,7 +102,7 @@ ul li {
     text-align: center;
     margin-top: 40px;
     padding: 20px 0;
-    background-color: #f3d0f2;
+    background-color: #f2e6f2;
     color: #fff;
     font-family: 'Copse', serif;
 }
