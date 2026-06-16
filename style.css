@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: 'Raleway', 'ExtraLight 200';
+    font-family: 'lato-light', 'ExtraLight 200';
     margin: 0;
     padding: 0;
     background-color: #fff;
@@ -18,7 +18,7 @@ body {
 .header {
     text-align: left;
     padding: 20px 0;
-    font-family: 'Copse', serif;
+    font-family: 'lato-light', serif;
 }
 
 .header h1 {
@@ -47,7 +47,7 @@ body {
     justify-content: space-between;
     margin-top: 20px;
     flex-wrap: wrap;
-    font-family: 'Copse', serif;
+    font-family: 'lato-light', serif;
 }
 
 .profile-pic {
@@ -62,7 +62,7 @@ body {
     flex: 1;
     margin-right: 20px;
     text-align: left;
-    font-family: 'Copse', serif;
+    font-family: 'lato-light', serif;
 }
 
 .intro h2 {
@@ -79,7 +79,7 @@ body {
 .content {
     margin-top: 40px;
     text-align: left;
-    font-family: 'Copse', serif;
+    font-family: 'lato-light', serif;
 }
 
 .content h3 {
@@ -104,7 +104,7 @@ ul li {
     padding: 20px 0;
     background-color: #f2e6f2;
     color: #fff;
-    font-family: 'Copse', serif;
+    font-family: 'lato-light', serif;
 }
 
 .footer a {
